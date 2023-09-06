@@ -1,0 +1,14 @@
+.Todo__header {
+    color: #1e1e1e;
+}
+.Todo__addCard {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 500px;
+}
+.Todo__editCardModal {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
